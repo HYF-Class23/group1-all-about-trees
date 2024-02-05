@@ -1,1 +1,10 @@
 @import url("./something.css");
+
+.top-divider {
+  border-style: solid none;
+}
+
+.spaced-items a {
+  display: inline-block;
+  margin-right: 100px;
+}
