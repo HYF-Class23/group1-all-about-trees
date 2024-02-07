@@ -9,13 +9,13 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a user I want to see the main subject to know what's in it
+- [ ] As a user I want to see the main subject to know what is in it
 
   - _A clear title located at the top center will be available_
 
 - [ ] As a user I expect an appealing UI
 
-  - _Tree logos will be added to the website_
+  - _Tree logos will be added to the website along with an appealing design_
 
 - [ ] As a user I want to read accurate information
 
