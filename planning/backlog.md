@@ -9,22 +9,27 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the main subject to know what's in it
+
+  - _A clear title located at the top center will be available_
+
+- [ ] As a user I expect an appealing UI
+
+  - _Tree logos will be added to the website_
+
+- [ ] As a user I want to read accurate information
+
+  - _Confirmed and validated resources used to retrieve information being
+    posted_
+
+- [ ] As a user I want to easily navigate through the website
+
+  - _There are navigation links for the user to smoothly move throughout the
+    page_
+
+- [ ] As a user I want to find contact information
+  - _There are different links for the available contact channels_
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
 ## Could-Haves
-
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
