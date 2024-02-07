@@ -8,7 +8,7 @@
 
 ## Their Role
 
-![Photo John, Gardener](./img/john%20jardineiro.jpeg)
+![Photo John, Gardener](./img/johnjardineiro.jpeg)
 
 - **Bio**: John,is a gardener, who likes to spend the weekend taking care of the
   garden and its trees.
@@ -21,7 +21,7 @@
 
 ---
 
-![Barbar biology student](./img/rosto%20de%20mulher.jpg)
+![Barbar biology student](./img/rostodemulher.jpg)
 
 - **Bio**: Barbara is a biology student, who is looking for information for her
   thesis.
