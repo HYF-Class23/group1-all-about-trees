@@ -8,6 +8,8 @@
 
 ## Their Role
 
+![Photo John, Gardener](./img/john%20jardineiro.jpeg)
+
 - **Bio**: John,is a gardener, who likes to spend the weekend taking care of the
   garden and its trees.
 - **Needs/Goals**: He needs help to improve the growth of his trees
@@ -19,6 +21,8 @@
 
 ---
 
+![Barbar biology student](./img/rosto%20de%20mulher.jpg)
+
 - **Bio**: Barbara is a biology student, who is looking for information for her
   thesis.
 - **Needs/Goals**: Barbara needs a lot of resources.
@@ -29,6 +33,8 @@
   sources of her thesis.
 
 ---
+
+![Patricia Ecologist](./img/ecologista.jpg)
 
 - **Bio**: Patricia is a born ecologist and is always looking for information.
 - **Needs/Goals**: She is always looking for new and innovative information
