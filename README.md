@@ -84,8 +84,8 @@ By [Name]
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
+1. `[git clone git@github.com:HackYourFutureBelgium/template-markdown.git](https://github.com/HYF-Class23/group1-all-about-trees.git)`
+2. `cd group1-all-about-trees`
 3. `npm install`
 
 ## Code Quality Checks
