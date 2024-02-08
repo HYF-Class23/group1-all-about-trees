@@ -1,6 +1,11 @@
-# All about trees
+# All-about-trees
 
-> A longer description
+We want to create a general educational web resource containing brief
+information about the world of trees. The contents of this site will help novice
+gardeners answer common tree care questions.
+
+This site is not intended for experts in this field. It will be of interest to
+beginners to gain basic knowledge in a simple and accessible form.
 
 ## Table of contents
 
@@ -26,7 +31,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![scrSite](./planning/All%20About%20TreesScr.png)
 
 ## Technologies
 
