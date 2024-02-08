@@ -1,6 +1,6 @@
 # Backlog
 
-This is our collection of user stories we've gathered all the user website requirements
+This is our collection of user stories we've gathered for our website requirements
 
 ## Must-Haves
 
