@@ -169,7 +169,7 @@ this will become one issue
 - [ ] some checkboxes for this task
 - [ ] these will be copy-pasted into the issue
 
-### Interface: tarunpurswani, Polyanna, Kevin story
+### Interface: tarunpurswani, Polyanna, Kevin, Yurii story
 
 - an _interface_ task
 
