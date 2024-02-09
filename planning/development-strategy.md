@@ -26,7 +26,8 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see the title of the page
 
-- This user story is developed on branch `9-title`.
+- This user story is developed on PR
+  [17-Add header](https://github.com/HYF-Class23/group1-all-about-trees/pull/17/files).
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -43,7 +44,8 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see logos of the page
 
-- This user story is developed on branch `10-logos`.
+- This user story is developed on PR
+  [17-Add header](https://github.com/HYF-Class23/group1-all-about-trees/pull/17/files).
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -61,7 +63,8 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see navigation links
 
-- This user story is developed on branch `11-navLinks`.
+- This user story is developed on PR
+  [17-Add Header](https://github.com/HYF-Class23/group1-all-about-trees/pull/17/files).
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -81,7 +84,8 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see description of the page
 
-- This user story is developed on branch `12-description`.
+- This user story is developed on PR
+  [23-addCorrections](https://github.com/HYF-Class23/group1-all-about-trees/pull/24/files).
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -99,7 +103,7 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see extra link one the page
 
-- This user story is developed on branch `13-extraLink`.
+- This user story is developed on branch `addCorrections extraLink`.
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -140,7 +144,8 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see social media links to contact the website owner
 
-- This user story is developed on branch `15-socialMedia`.
+- This user story is developed on RP
+  [13-development add footer : HTML](https://github.com/HYF-Class23/group1-all-about-trees/pull/13/files).
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -163,7 +168,7 @@ this will become one issue
 - [ ] some checkboxes for this task
 - [ ] these will be copy-pasted into the issue
 
-### Interface: tarunpurswani, Polyanna, Kevin, Yurii story
+### Interface: tarunpurswani, Polyanna, Kevin story
 
 - an _interface_ task
 
@@ -174,7 +179,7 @@ this will become one issue
 - [ ] development add a footer : style
 - [ ] add Css
 
-### Interaction: tarunpurswani, Polyanna, Yurii, Kevin
+### Interaction: tarunpurswani, Yurii, Polyanna, Kevin
 
 - an _interaction_ task
 
@@ -195,3 +200,4 @@ Changing MD files with up-to-date information
 - [ ] communicatins plane
 - [ ] add backlog
 - [ ] development strategy
+- [ ] retrospective
