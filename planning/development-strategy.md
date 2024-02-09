@@ -103,7 +103,8 @@ gardeners answer common tree care questions.
 
 ### As a user I want to see extra link one the page
 
-- This user story is developed on branch `addCorrections extraLink`.
+- This user story is developed on PR
+  [addCorrections extraLink](https://github.com/HYF-Class23/group1-all-about-trees/commit/642e240ae480f6ae26e0b1a68324a57462f9f704).
 - This branch is merged to `master` branch after completion.
 
 ### html
