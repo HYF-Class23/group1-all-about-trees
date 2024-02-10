@@ -27,7 +27,7 @@ beginners to gain basic knowledge in a simple and accessible form.
 
 ## General info
 
-> A short description
+>A simple website with information about trees.
 
 ## Screenshots
 
@@ -37,20 +37,22 @@ beginners to gain basic knowledge in a simple and accessible form.
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
-
+- HTML
+- CSS
+  
 ## Setup
 
-- `npm run start`
+- `npm run install`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
-```
+<nav class="bottom-divider">
+      <div class="spaced-items">
+        <a href="#summary-info">Intro</a>
+        <a href="#main-info">Content</a>
+        <a href="#extra-info">Extras</a>
+      </div>
+    </nav>
 
 ## Features
 
@@ -75,7 +77,7 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By [kevinOse, Juryp, tarunpurswani, polyannameira]
 
 ## Instructions for use
 
